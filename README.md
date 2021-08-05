@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Sou um estudante de analise e desenvolvimento de sistemas
 - 📙 Atualmente estudando java web
-- 💻 realizando Trabalhos freelancer em front-end 
+- 💻 Realizando Trabalhos freelancer em front-end 
 
  <div>
   <a href="https://github.com/Noslian">
