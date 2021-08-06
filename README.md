@@ -1,6 +1,6 @@
 ### hello world! 👋
 
-- 👨‍🎓 Sou um estudante de analise e desenvolvimento de sistemas
+- 👨‍🎓 Sou um estudante de análise e desenvolvimento de sistemas
 - 📙 Atualmente estudando java web
 - 💻 Realizando Trabalhos freelancer em front-end 
 
